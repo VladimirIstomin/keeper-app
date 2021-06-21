@@ -3,6 +3,7 @@ An application for taking notes.
 
 ## Used technologies
 1. HTML
+2. CSS
 3. JavaScript
 4. React
 
